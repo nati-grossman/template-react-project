@@ -7,6 +7,12 @@ This project is a template for starting new React applications quickly, with a s
 Feel free to customize and expand upon this template to suit your specific needs!
 
 
+## Project Preview
+
+Here is a visual representation of the project:
+
+![React Project](public/images/ReactProject.png)
+
 ## Features
 
 - Basic React setup with all essential dependencies.
