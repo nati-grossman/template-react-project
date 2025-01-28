@@ -25,7 +25,7 @@ Below is a screenshot of the starter template in action:
 ## Folder Structure
 The folder structure of this project is as follows:
 
-public/
+"public/
   └── images/
       └── ReactProject.png
   └── index.html
@@ -34,7 +34,7 @@ src/
       └── ExampleComponent.js
   └── App.js
   └── index.js
-README.md
+README.md"
 
 - `public/`: Contains static assets like images and the `index.html` file.
 - `src/`: Contains React components and main app files like `App.js` and `index.js`.
